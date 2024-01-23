@@ -1,7 +1,5 @@
 ### Main skills
-![Kotlin](http://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=Kotlin "Kotlin") ![Android](http://img.shields.io/badge/Android-grey?style=for-the-badge&logo=Android "Android") ![Jetpack Compose](http://img.shields.io/badge/Jetpack Compose-grey?style=for-the-badge&logo=Jetpack Compose "Jetpack Compose") ![Gradle](http://img.shields.io/badge/Gradle-grey?style=for-the-badge&logo=Gradle "Gradle") ![Git](http://img.shields.io/badge/Git-grey?style=for-the-badge&logo=Git "Git") 
-
-![SQLite](http://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=SQLite "SQLite") 
+![Kotlin](http://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=Kotlin "Kotlin")  ![Android](http://img.shields.io/badge/Android-grey?style=for-the-badge&logo=Android "Android")  ![Jetpack Compose](http://img.shields.io/badge/Jetpack+Compose-grey?style=for-the-badge&logo=Jetpack+Compose "Jetpack Compose") ![Gradle](http://img.shields.io/badge/Gradle-grey?style=for-the-badge&logo=Gradle "Gradle") ![Git](http://img.shields.io/badge/Git-grey?style=for-the-badge&logo=Git "Git")  ![SQLite](http://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=SQLite "SQLite") 
 
 ### Secondary skills
 ![Python](http://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python "Python") ![C++](http://img.shields.io/badge/C++-grey?style=for-the-badge&logo=Cplusplus "C++")
@@ -19,6 +17,6 @@
 
 ### Programs
 
-![Android Studio](http://img.shields.io/badge/Android Studio-grey?style=for-the-badge&logo=Android+Studio "Android Studio") ![intellij+IDEA](http://img.shields.io/badge/intellij IDEA-grey?style=for-the-badge&logo=intellij+Idea "intellij IDEA") ![Visual+Studio](http://img.shields.io/badge/Visual Studio-grey?style=for-the-badge&logo=Visual+Studio "Visual+Studio") 
+![Android Studio](http://img.shields.io/badge/Android+Studio-grey?style=for-the-badge&logo=Android+Studio "Android+Studio") ![intellij+IDEA](http://img.shields.io/badge/intellij+IDEA-grey?style=for-the-badge&logo=intellij+Idea "intellij IDEA") ![Visual+Studio](http://img.shields.io/badge/Visual+Studio-grey?style=for-the-badge&logo=Visual+Studio "Visual+Studio") 
 
 ![Krita](http://img.shields.io/badge/Krita-grey?style=for-the-badge&logo=Krita "Krita") ![Figma](http://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=Figma "Figma")
