@@ -1,5 +1,5 @@
 ### Apps
-| Icon | App name  | Description  | Download |
+| Icon | Name | Description | Download |
 | :--------: | :--------: |:----------:| :--------:|
 |<img src="similar_app_logo.png" width="32"> | **Similar**| The game is for the Android platform. <br> The essence is simple, you need to guess the similarity <br> of the previous and current figures in 1 second. | [![Download from RuStore](rustore.svg "Download from RuStore")](https://apps.rustore.ru/app/com.app.similar.release "Download from RuStore") |
 
