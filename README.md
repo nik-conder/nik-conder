@@ -1,5 +1,7 @@
 ### Apps
-Similar — https://apps.rustore.ru/app/com.app.similar.release
+| App name  | Description  | Download |
+| :--------: |:----------:| :--------:|
+|**Similar**| The game is for the Android platform. <br> The essence is simple, you need to guess the similarity <br> of the previous and current figures in 1 second. | [![Download from RuStore](https://github.com/nik-conder/android-app-similar/blob/master/rustore.svg "Download from RuStore")](https://apps.rustore.ru/app/com.app.similar.release "Download from RuStore") |
 
 ### Main skills
 ![Kotlin](http://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=Kotlin "Kotlin")  ![Android](http://img.shields.io/badge/Android-grey?style=for-the-badge&logo=Android "Android")  ![Jetpack Compose](http://img.shields.io/badge/Jetpack%20Compose-grey?style=for-the-badge&logo=Jetpack+Compose "Jetpack Compose") ![Gradle](http://img.shields.io/badge/Gradle-grey?style=for-the-badge&logo=Gradle "Gradle") ![Git](http://img.shields.io/badge/Git-grey?style=for-the-badge&logo=Git "Git")  
